@@ -1,0 +1,12 @@
+# Core
+numpy>=1.21.0
+matplotlib>=3.4.0
+
+# Development / testing
+pytest>=7.0
+pytest-cov>=4.0
+
+# Optional: for comparison benchmarks
+scikit-learn>=1.0
+jupyter>=1.0
+notebook>=6.0
