@@ -7,7 +7,7 @@ A complete, production-quality **Linear Regression** implementation built from s
 
 ---
 
-## ✨ Features
+##  Features
 
 | Feature | Detail |
 |---|---|
@@ -21,7 +21,7 @@ A complete, production-quality **Linear Regression** implementation built from s
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 linear-regression/
@@ -47,7 +47,7 @@ linear-regression/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Installation
 
@@ -90,7 +90,7 @@ print(f"Bias   : {model.bias_:.4f}")
 
 ---
 
-## 📐 Math Behind It
+##  Math Behind It
 
 ### Model
 ```
@@ -125,7 +125,7 @@ J(w, b) = MSE + (λ / m) Σ |wⱼ|
 
 ---
 
-## ⚙️ API Reference
+##  API Reference
 
 ### `LinearRegression`
 
@@ -192,7 +192,7 @@ from linear_regression import (
 
 ---
 
-## 🧪 Running Tests
+##  Running Tests
 
 ```bash
 # Run all tests
@@ -207,7 +207,7 @@ pytest tests/test_linear_regression.py::TestLinearRegressionGradientDescent -v
 
 ---
 
-## 📊 Examples
+##  Examples
 
 ```bash
 # Simple 1D linear regression
@@ -222,7 +222,7 @@ python examples/03_polynomial_regression.py
 
 ---
 
-## 🔑 Key Design Decisions
+##  Key Design Decisions
 
 - **Pure NumPy** — no hidden ML libraries; every operation is explicit.
 - **Two solvers** — Gradient Descent for large datasets; Normal Equation for exact closed-form solutions on small ones.
@@ -233,7 +233,7 @@ python examples/03_polynomial_regression.py
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repo
 2. Create your branch: `git checkout -b feature/your-feature`
