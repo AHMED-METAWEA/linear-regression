@@ -1,6 +1,5 @@
 # 📈 Linear Regression from Scratch
 
-[![CI](https://github.com/yourusername/linear-regression/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/linear-regression/actions)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
