@@ -53,7 +53,7 @@ linear-regression/
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/linear-regression.git
+git clone https://github.com/AHMED-METAWEA/linear-regression.git
 cd linear-regression
 pip install -r requirements.txt
 ```
